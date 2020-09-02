@@ -1,0 +1,110 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+h1{
+  color: #66BFBF;
+  font-family: 'Sacramento', serif;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', serif;
+  font-size: 1.5rem;
+}
+p {
+  font-size: 1rem;
+  line-height: 2;
+}
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaf6f6;
+}
+div {
+
+}
+hr {
+  width: 5%;
+  border-width: 5px;
+  height: 0px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+}
+.top-container {
+  background-color: #d6e0f0;
+  position: relative;
+  padding-top: 80px;
+}
+.middle-container {
+  margin: 50px 0;
+}
+.bottom-container {
+  background-color: #66BFBF;
+  font-size: 1rem;
+  padding: 50px 0 20px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px
+}
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.man-p {
+  margin: 50px auto 50px auto;
+  width: 50%;
+}
+.man-img {
+  width: 20%;
+  margin: auto;
+}
+.skill {
+
+}
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+}
+.subtitle {
+  color: #66BFBF;
+  font-weight: normal;
+}
+.fsd-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.sm-img {
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.ba-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.pro {
+  text-decoration: underline;
+}
